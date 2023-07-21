@@ -3,6 +3,3 @@ This is the github testing document file.
 =======
 vnjfbj     s dshcdscjsabcbjsbca helllo jeetu
 >>>>>>> 27950a7504371e754b1500543d297c7fb822524d
-
-HI this is  me and you
-
